@@ -1,1 +1,1 @@
-# SST-OpenSource-RestaurantWebsite
+Restaurant Website-OpenSource-SST-Hackathon
